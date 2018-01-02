@@ -74,3 +74,5 @@ fetch会拉取最新的远成仓库的数据，但不会自动到当前目录下
 
 git remote show origin  
 查看远程仓库的信息  
+
+git命令详解： http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
